@@ -1,1 +1,2 @@
-
+The button "Save" doesn't work when push it
+A language of app doesn't switch in Polish
